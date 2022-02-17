@@ -1,0 +1,1 @@
+localStorage.setItem("key",sideBar.innerHTML);//keep info after refreshing the page 
